@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="signup">Signup</string>
+    <string name="enter_conform_password">Enter conform Password</string>
+    <string name="conform_password">Conform Password</string>
+</resources>
